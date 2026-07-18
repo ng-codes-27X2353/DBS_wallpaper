@@ -41,4 +41,4 @@ Want to use this interactive background on your actual PC desktop instead of jus
 3. ➕ **Add New Wallpaper:** Click the **"+" (Add Wallpaper)** button in the app.
 4. 📂 **Select Your File:** Click **Browse**, navigate to the folder where you downloaded this project, and select the `index.html` file. 
 
-*Boom! Your interactive video background is now running live on your Windows desktop!*
+*Boom! Your interactive video background is now running live on your Windows desktop!* 
