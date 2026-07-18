@@ -4,7 +4,7 @@
 
   **A highly interactive, 1920x1080 web-based background with cursor tracking and click effects.**
   
-  [![Live Demo](https://img.shields.io/badge/View-Live_Demo-success?style=for-the-badge&logo=github)](https://ng-codes-27X2353.github.io/[YOUR-REPO-NAME])
+  [![Live Demo](https://img.shields.io/badge/View-Live_Demo-success?style=for-the-badge&logo=github)](https://ng-codes-27X2353.github.io/DBS_wallpaper)
   [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
   [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
   [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
@@ -30,7 +30,7 @@
 If you want to run this locally on your machine instead of using the live demo:
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/ng-codes-27X2353/](https://github.com/ng-codes-27X2353/)[DBS_wallpaper].git
+   git clone [https://github.com/ng-codes-27X2353/](https://github.com/ng-codes-27X2353/)DBS_wallpaper.git
 
 ## 💻 How to Use as Your Desktop Wallpaper
 
