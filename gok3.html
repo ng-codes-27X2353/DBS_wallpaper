@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive DBZ Wallpaper</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <video id="vid1" class="bg-video bottom-layer" src="1st wallpaper.mp4" autoplay loop></video>
+
+    <video id="vid2" class="bg-video top-layer" src="2nd wallpaper.mp4" autoplay loop muted></video>
+
+    <svg width="0" height="0" style="position: absolute; pointer-events: none;">
+        <defs>
+            <filter id="smoothEdge">
+                <feGaussianBlur stdDeviation="1.5" />
+            </filter>
+            
+            <mask id="videoMask" maskUnits="userSpaceOnUse" x="0" y="0" width="100vw" height="100vh">
+                <g filter="url(#smoothEdge)">
+                    <g fill="white">
+                        <circle id="maskHead" cx="-1000" cy="-1000" r="400" />
+                        <polygon id="maskTail" points="" />
+                    </g>
+                    <g id="rippleContainer"></g>
+                </g>
+            </mask>
+        </defs>
+    </svg>
+
+    <script src="script.js"></script>
+</body>
+</html>
