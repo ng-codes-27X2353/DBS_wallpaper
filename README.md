@@ -14,7 +14,7 @@
 ---
 
 ## ✨ See it in Action
-👉 **[Click here to play with the live demo!](https://ng-codes-27X2353.github.io/[YOUR-REPO-NAME])**
+👉 **[Click here to play with the live demo!](https://ng-codes-27X2353.github.io/DBS_wallpaper)**
 
 ## 🚀 Features
 
