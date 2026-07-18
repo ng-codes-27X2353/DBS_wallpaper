@@ -30,7 +30,7 @@
 If you want to run this locally on your machine instead of using the live demo:
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/ng-codes-27X2353/](https://github.com/ng-codes-27X2353/)DBS_wallpaper.git
+   git clone [https://github.com/ng-codes-27X2353/DBS_wallpaper.git](https://github.com/ng-codes-27X2353/DBS_wallpaper.git)
 
 ## 💻 How to Use as Your Desktop Wallpaper
 
@@ -42,4 +42,3 @@ Want to use this interactive background on your actual PC desktop instead of jus
 4. 📂 **Select Your File:** Click **Browse**, navigate to the folder where you downloaded this project, and select the `index.html` file. 
 
 *Boom! Your interactive video background is now running live on your Windows desktop!*
-   
